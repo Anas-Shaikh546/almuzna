@@ -1,0 +1,14 @@
+*{
+    border: 0px;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+.coursel{
+ max-height: 80rem;
+ width: 80ch;
+}
+.niro{
+    display: flex;
+}

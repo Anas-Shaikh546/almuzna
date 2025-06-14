@@ -1,0 +1,18 @@
+to do*
+1. logo designing 
+   * include in costumer/include/main.php and /include/main.php
+
+2. navbar and footer 
+   1. perfect optimaztion 
+   2. include same bullet points IN navbar and footer  as given in example 
+   3. add icons and link to link social media 
+
+3.front-end optimization
+  1. coursel start from index.php
+  2. arrow beside feaatured collection that should land     on shop.php
+  3. paginator optimization.
+  4. label optimaztion
+  5.view page optimization can be performed in function/function.php in there search for particular thing you are doing mostly will be in get pro() or get product();
+  6. below items and above footer in index add a static testimonals (customer review).
+
+3. responsiveness
