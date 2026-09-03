@@ -3,11 +3,6 @@
 ```markdown
 # AlMuzna — Full-Stack E-Commerce Platform 🛒
 
-[![PHP](https://img.shields.io/badge/PHP-7.4%20%7C%208.x-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-AJAX-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 An end-to-end e-commerce platform designed with a modular PHP backend and relational MySQL storage. **AlMuzna** delivers a complete online shopping workflow, featuring dynamic client-side interactions (AJAX), authenticated customer management, and an administrative control panel for inventory and business operations.
 
 ---
@@ -129,8 +124,8 @@ Open your browser and navigate to: `http://localhost/almuzna/`
 
 *Computer Science Engineering Student | Full-Stack & Backend Enthusiast*
 
-* **GitHub:** [@Anas-Shaikh546](https://www.google.com/search?q=https://github.com/Anas-Shaikh546)
-* **LinkedIn:** [Anas Shaikh](https://www.google.com/search?q=www.linkedin.com/in/shaikh-anas-786b98262ca)
+* **GitHub:** [@Anas-Shaikh546](https://github.com/Anas-Shaikh546)
+* **LinkedIn:** [Anas Shaikh](www.linkedin.com/in/shaikh-anas-786b98262ca)
 * 
 
 ```
